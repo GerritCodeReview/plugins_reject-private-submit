@@ -33,6 +33,29 @@
       "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b7fbba07_1af97c5f",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/rejectprivate/RejectPrivateSubmitListener.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2018-06-12T10:52:11Z",
+      "side": 1,
+      "message": "Use log-expansion syntax:\n   log.warn(\"NULL commit or change in listener while submitting to {} on {} by {}: {}\", destProject, destBranch, caller, commit)",
+      "range": {
+        "startLine": 48,
+        "startChar": 15,
+        "endLine": 49,
+        "endChar": 56
+      },
+      "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
