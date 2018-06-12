@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "aa5baa04_4a09ca5b",
+        "filename": "BUILD",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2018-06-12T10:38:51Z",
+      "side": 1,
+      "message": "Can you ran buildifier: [1] through this build file? On Gerrit core, this would be a part of CI, but for plugins we haven\u0027t set that up yet, unfortunately.\n\n* [1] https://github.com/bazelbuild/buildtools/tree/master/buildifier",
+      "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "08e9ed76_660d9e66",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/rejectprivate/RejectPrivateSubmitListener.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2018-06-12T10:38:51Z",
+      "side": 1,
+      "message": "Have you run google-java-format version 1.6 through this file?",
+      "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
