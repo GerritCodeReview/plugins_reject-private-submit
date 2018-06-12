@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "c08dbce3_d4f25ac8",
+        "filename": "BUILD",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1015669
+      },
+      "writtenOn": "2018-06-12T11:04:32Z",
+      "side": 1,
+      "message": "took me a while to setup, but done now :D",
+      "parentUuid": "aa5baa04_4a09ca5b",
+      "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "08e9ed76_660d9e66",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/rejectprivate/RejectPrivateSubmitListener.java",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2018-06-12T10:38:51Z",
       "side": 1,
       "message": "Have you run google-java-format version 1.6 through this file?",
+      "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "21eb3c88_146d049a",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/rejectprivate/RejectPrivateSubmitListener.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1015669
+      },
+      "writtenOn": "2018-06-12T11:04:32Z",
+      "side": 1,
+      "message": "I used whatever gerrit\u0027s tools/eclipse/project.py creates... is it mandatory to use this formatter? can this be setup in a way that it is integrated into eclipse when working on gerrit (and plugins)?",
+      "parentUuid": "08e9ed76_660d9e66",
       "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
@@ -56,6 +92,30 @@
       "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b6e78119_7925a820",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/rejectprivate/RejectPrivateSubmitListener.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1015669
+      },
+      "writtenOn": "2018-06-12T11:04:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b7fbba07_1af97c5f",
+      "range": {
+        "startLine": 48,
+        "startChar": 15,
+        "endLine": 49,
+        "endChar": 56
+      },
+      "revId": "1b4c029c0b545bf1a28a1feca58bd0ed968687ad",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
