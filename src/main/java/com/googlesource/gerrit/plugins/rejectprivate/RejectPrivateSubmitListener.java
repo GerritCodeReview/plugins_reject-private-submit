@@ -15,8 +15,8 @@
 package com.googlesource.gerrit.plugins.rejectprivate;
 
 import com.google.gerrit.extensions.registration.DynamicSet;
-import com.google.gerrit.reviewdb.client.Branch.NameKey;
-import com.google.gerrit.reviewdb.client.PatchSet.Id;
+import com.google.gerrit.entities.BranchNameKey;
+import com.google.gerrit.entities.PatchSet.Id;
 import com.google.gerrit.server.IdentifiedUser;
 import com.google.gerrit.server.git.CodeReviewCommit;
 import com.google.gerrit.server.git.validators.MergeValidationException;
@@ -46,7 +46,7 @@ public class RejectPrivateSubmitListener implements MergeValidationListener {
       Repository repo,
       CodeReviewCommit commit,
       ProjectState destProject,
-      NameKey destBranch,
+      BranchNameKey destBranch,
       Id patchSetId,
       IdentifiedUser caller)
       throws MergeValidationException {
