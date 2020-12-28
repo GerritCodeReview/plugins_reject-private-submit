@@ -16,6 +16,24 @@
       "message": "Also, can someone add a branch on the previous (and only) commit, like \u0027stable-3.0\u0027 ?",
       "revId": "d87bb99584410a4cdec418b30b3ac7ccc6bbdb52",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cd3c17f3_88e2d023",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2020-12-28T15:30:23Z",
+      "side": 1,
+      "message": "stable-3.0 is created. Done.",
+      "parentUuid": "bc4dc3b9_54026970",
+      "revId": "d87bb99584410a4cdec418b30b3ac7ccc6bbdb52",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
