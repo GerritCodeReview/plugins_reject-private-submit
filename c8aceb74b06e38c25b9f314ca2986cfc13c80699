@@ -16,6 +16,24 @@
       "message": "Can you also please create branches \u0027stable-3.1\u0027 and \u0027stable-3.2\u0027 on previous commit (i.e. current master) ?",
       "revId": "c8aceb74b06e38c25b9f314ca2986cfc13c80699",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2eb3a39e_6d10b1fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2021-01-20T13:44:47Z",
+      "side": 1,
+      "message": "Done.",
+      "parentUuid": "a594dfe2_053e3bcb",
+      "revId": "c8aceb74b06e38c25b9f314ca2986cfc13c80699",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
